@@ -30,5 +30,14 @@ module.exports = {
         allExtensions: true, // defaults to false
       },
     },
+    {
+      resolve: 'gatsby-plugin-google-fonts',
+      options: {
+        fonts: [
+          'Abril Fatface',
+          'Noto Serif KR',
+        ]
+      }
+    }
   ],
 };
