@@ -2,6 +2,7 @@ import React from 'react';
 
 import './index.scss';
 import Logo from '@src/images/icon.png';
+import { Link } from 'gatsby';
 
 const Header: React.FC = () => {
   return (
@@ -9,7 +10,9 @@ const Header: React.FC = () => {
       <div className="container">
         <div className="header__body">
           <div className="header__logo">
-            <img src={Logo} alt="logo" />
+            <Link to="/">
+              <img src={Logo} alt="logo" />
+            </Link>
           </div>
           <div className="header__nav">
 
