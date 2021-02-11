@@ -2,6 +2,11 @@ module.exports = {
   purge: ['./src/**/*.{js,jsx,ts,tsx}'],
   darkMode: 'class', // or 'media' or 'class'
   theme: {
+    extend: {
+      colors: {
+        primary: '#c0d725',
+      }
+    },
     fontFamily: {
       sans: ['Abril Fatface'],
       serif: ['Noto Serif KR'],

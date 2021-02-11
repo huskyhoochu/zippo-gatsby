@@ -10,16 +10,16 @@ interface Props {
 
 const Layout: React.FC<Props> = ({ children }: Props) => {
   return (
-    <main>
+    <div className="antialiased">
       <Helmet>
         <title>지포의 나날들</title>
       </Helmet>
       <Header />
-      <div className="container">
+      <main>
         {children}
-      </div>
+      </main>
       <Footer />
-    </main>
+    </div>
   );
 };
 

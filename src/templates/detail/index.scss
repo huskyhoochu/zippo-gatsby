@@ -1,0 +1,55 @@
+.post {
+  &__thumbnail {
+    @apply w-full h-96;
+    @apply my-8;
+    @apply bg-no-repeat bg-cover bg-fixed;
+  }
+
+  &__tags {
+    @apply flex items-center justify-between;
+    text-transform: capitalize;
+    @apply my-4;
+   }
+
+  &__title {
+    font-family: 'Noto Serif KR', serif;
+    @apply font-black;
+    @apply text-4xl;
+    @apply inline-block;
+
+    hr {
+      @apply border-2 border-primary;
+      @apply my-2;
+    }
+  }
+
+  &__markdown {
+    @apply my-16;
+    font-family: 'Noto Serif KR', serif;
+
+    h2 {
+      @apply font-bold;
+      @apply text-2xl;
+      @apply my-6;
+    }
+
+    p, blockquote, ul, ol {
+      min-height: 30px;
+      text-indent: 1rem;
+      line-height: 2;
+      @apply mb-4;
+    }
+
+    ul {
+      @apply list-disc list-inside;
+    }
+
+    ol {
+      @apply list-decimal list-inside;
+    }
+
+    blockquote {
+      @apply italic;
+    }
+  }
+}
