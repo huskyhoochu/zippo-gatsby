@@ -12,7 +12,18 @@
     "start": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "prettier": "prettier --write"
+  },
+  "lint-staged": {
+    "./srd/**/*.(ts|tsx|scss)": [
+      "yarn prettier"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
   },
   "dependencies": {
     "@types/node": "^14.14.25",
@@ -31,10 +42,20 @@
     "gatsby-source-filesystem": "^2.11.0",
     "gatsby-transformer-remark": "^2.16.0",
     "postcss": "^8.2.6",
+    "prettier": "^2.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-helmet": "^6.1.0",
     "sass": "^1.32.7",
     "tailwindcss": "^2.0.3"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.15.0",
+    "@typescript-eslint/parser": "^4.15.0",
+    "eslint": "^7.19.0",
+    "eslint-plugin-react": "^7.22.0",
+    "husky": "^5.0.9",
+    "lint-staged": "^10.5.4",
+    "typescript": "^4.1.5"
   }
 }
