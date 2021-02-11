@@ -1,3 +1,19 @@
 .header {
 
+  &__body {
+    @apply flex items-center justify-between;
+    @apply py-2;
+  }
+
+  &__logo {
+    @apply w-16;
+  }
+
+  &__nav {
+
+  }
+
+  &__mobile {
+
+  }
 }

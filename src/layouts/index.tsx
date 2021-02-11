@@ -1,5 +1,7 @@
-import * as React from 'react';
-import Header from '../components/header';
+import React from 'react';
+import { Helmet } from 'react-helmet';
+
+import Header from '@src/components/header';
 
 interface Props {
   children: React.ReactNode;
@@ -8,6 +10,9 @@ interface Props {
 const Layout: React.FC<Props> = ({ children }: Props) => {
   return (
     <main>
+      <Helmet>
+        <title>지포의 나날들</title>
+      </Helmet>
       <Header />
       <div className="container">
         {children}

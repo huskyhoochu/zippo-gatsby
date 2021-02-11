@@ -1,5 +1,5 @@
-import * as React from 'react';
-import Layout from '../layouts';
+import React from 'react';
+import Layout from '@src/layouts';
 
 const IndexPage: React.FC = () => {
   return (
