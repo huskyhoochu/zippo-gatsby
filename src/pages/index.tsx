@@ -1,11 +1,12 @@
-import * as React from "react"
+import * as React from 'react';
+import Layout from '../layouts';
 
-const IndexPage = () => {
+const IndexPage: React.FC = () => {
   return (
-    <main>
-      <div>hello</div>
-    </main>
-  )
-}
+    <Layout>
+      <p>hello</p>
+    </Layout>
+  );
+};
 
-export default IndexPage
+export default IndexPage;
