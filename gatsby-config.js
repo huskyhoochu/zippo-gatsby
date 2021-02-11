@@ -38,6 +38,7 @@ module.exports = {
           'Noto Serif KR',
         ]
       }
-    }
+    },
+    "gatsby-plugin-sass",
   ],
 };
