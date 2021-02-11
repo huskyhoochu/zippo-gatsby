@@ -52,8 +52,9 @@ module.exports = {
       options: {
         fonts: [
           'Abril Fatface',
-          'Noto Serif KR',
-        ]
+          'Noto Serif KR\:400,400i,700,700i',
+        ],
+        display: 'swap',
       }
     },
     {
