@@ -23,6 +23,13 @@ module.exports = {
       __key: 'pages',
     },
     {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'markdown',
+        path: './src/markdown/',
+      },
+    },
+    {
       resolve: 'gatsby-plugin-typescript',
       options: {
         isTSX: true, // defaults to false
