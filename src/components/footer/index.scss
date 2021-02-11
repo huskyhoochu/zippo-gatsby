@@ -1,0 +1,7 @@
+.footer {
+  @apply py-16;
+
+  &__copyright {
+    @apply text-right;
+  }
+}
