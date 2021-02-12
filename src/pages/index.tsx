@@ -6,15 +6,17 @@ const IndexPage: React.FC = ({ data }: PageProps) => {
   const posts = (data as any).allMarkdownRemark;
   return (
     <Layout>
-      <p>{posts.totalCount} posts</p>
-      {Array.prototype.map.call(posts.edges, ({ node }) => (
-        <div key={node.id}>
-          <Link to={node.frontmatter.slug}>
-            <p>{node.frontmatter.title}</p>
-            <p>{node.frontmatter.date}</p>
-          </Link>
-        </div>
-      ))}
+      <div className="main container">
+        <p>{posts.totalCount} posts</p>
+        {Array.prototype.map.call(posts.edges, ({ node }) => (
+          <div key={node.id}>
+            <Link to={node.frontmatter.slug}>
+              <p>{node.frontmatter.title}</p>
+              <p>{node.frontmatter.date}</p>
+            </Link>
+          </div>
+        ))}
+      </div>
     </Layout>
   );
 };
