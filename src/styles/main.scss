@@ -1,0 +1,8 @@
+.main {
+  @apply overflow-x-auto;
+
+  &__wrapper {
+    @apply flex flex-wrap items-start;
+    @apply -mx-4 my-8;
+  }
+}

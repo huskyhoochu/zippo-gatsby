@@ -2,20 +2,19 @@ import React from 'react';
 import Layout from '@src/layouts';
 import { graphql, PageProps, Link } from 'gatsby';
 
+import '@src/styles/main.scss';
+import Card from '@src/components/card';
+
 const IndexPage: React.FC = ({ data }: PageProps) => {
   const posts = (data as any).allMarkdownRemark;
   return (
     <Layout>
       <div className="main container">
-        <p>{posts.totalCount} posts</p>
-        {Array.prototype.map.call(posts.edges, ({ node }) => (
-          <div key={node.id}>
-            <Link to={node.frontmatter.slug}>
-              <p>{node.frontmatter.title}</p>
-              <p>{node.frontmatter.date}</p>
-            </Link>
-          </div>
-        ))}
+        <div className="main__wrapper">
+          {Array.prototype.map.call(posts.edges, ({ node }) => (
+            <Card node={node} key={node.id} />
+          ))}
+        </div>
       </div>
     </Layout>
   );
@@ -32,6 +31,8 @@ export const query = graphql`
                       title
                       slug
                       date
+                      tag
+                      thumbnail
                   }
               }
           }

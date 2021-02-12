@@ -1,0 +1,38 @@
+.card {
+  @apply ml-4 mb-4;
+
+  @screen xl {
+    width: 240px;
+  }
+
+  @screen lg {
+    width: 240px;
+  }
+
+  @screen sm {
+    @apply w-full;
+  }
+
+
+  &__wrapper {
+
+  }
+
+  &__thumbnail {
+    @apply w-full h-40;
+    @apply bg-no-repeat bg-cover bg-center;
+    @apply mb-2;
+  }
+
+  &__tag-group {
+    @apply flex items-center justify-between;
+  }
+
+  &__title {
+    font-family: 'Noto Serif KR', serif;
+    @apply w-full;
+    @apply overflow-hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+}
