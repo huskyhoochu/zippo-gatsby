@@ -1,5 +1,5 @@
 ---
-slug: "/another-coat-of-paint"
+slug: "/simone-de-beauvoir"
 date: "2020-12-15"
 tag: "books"
 title: "시몬 드 보부아르, <모든 사람은 혼자다>"

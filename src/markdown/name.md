@@ -1,5 +1,5 @@
 ---
-slug: "name"
+slug: "/name"
 date: "2020-12-07"
 tag: "books"
 title: "욘 포세, <이름>"
