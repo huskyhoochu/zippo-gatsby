@@ -2,7 +2,7 @@
   &__thumbnail {
     @apply w-full h-96;
     @apply my-8;
-    @apply bg-no-repeat bg-cover bg-bottom bg-fixed;
+    @apply bg-no-repeat bg-cover bg-bottom;
   }
 
   &__tags {
@@ -56,6 +56,9 @@
 
     blockquote {
       @apply italic;
+      @apply relative;
+      @apply p-4 pt-8;
+      @apply border border-primary border-l-8;
     }
 
     hr {
