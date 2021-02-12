@@ -3,7 +3,7 @@ slug: "/was-ist-macht"
 date: "2020-10-20"
 tag: "poems"
 title: "한병철, <권력이란 무엇인가>"
-thumbnail: "https://images.unsplash.com/photo-1478147427282-58a87a120781"
+thumbnail: "https://images.unsplash.com/photo-1478147427282-58a87a120781?q=80&w=2000"
 ---
 
 ## 100자 평

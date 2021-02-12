@@ -3,7 +3,7 @@ slug: "/dream-story-01"
 date: "2020-11-04"
 tag: "novels"
 title: "꿈 같은 이야기 No.1"
-thumbnail: "https://images.unsplash.com/photo-1543699565-003b8adda5fc"
+thumbnail: "https://images.unsplash.com/photo-1543699565-003b8adda5fc?q=80&w=2000"
 ---
 
 젊은 시절, 그가 걷는 길마다 발자국에서는 푸른 싹이 돋아났었다. 어떤 것은 물망초 같은 들꽃의 모양이었고 어떤 것은 잡목처럼 줄기가 억센 것들이었다.

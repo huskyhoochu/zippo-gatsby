@@ -3,7 +3,7 @@ slug: "/another-coat-of-paint"
 date: "2020-08-23"
 tag: "poems"
 title: "안희연, <덧칠>"
-thumbnail: "https://images.unsplash.com/photo-1530615881343-afb282da8b17"
+thumbnail: "https://images.unsplash.com/photo-1530615881343-afb282da8b17?q=80&w=2000"
 ---
 
 나는 네가 이런 것을 사랑이라고 믿을까봐 두렵다, 장의차가 지나가는 풍경, 가스 불을 켤 때마다 불에 한 얼굴이 떠오르는 일,

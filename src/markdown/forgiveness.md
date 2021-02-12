@@ -3,7 +3,7 @@ slug: "/forgiveness"
 date: "2020-10-01"
 tag: "books"
 title: "스베냐 플라스푈러, <조금 불편한 용서>"
-thumbnail: "https://images.unsplash.com/photo-1551202416-7c06b50ab064"
+thumbnail: "https://images.unsplash.com/photo-1551202416-7c06b50ab064?q=80&w=2000"
 ---
 
 ## 100자 평

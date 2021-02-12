@@ -3,7 +3,7 @@ slug: "/recent-dream"
 date: "2020-08-17"
 tag: "journals"
 title: "최근에 꾼 꿈"
-thumbnail: "https://images.unsplash.com/photo-1462651567147-aa679fd1cfaf"
+thumbnail: "https://images.unsplash.com/photo-1462651567147-aa679fd1cfaf?q=80&w=2000"
 ---
 
 

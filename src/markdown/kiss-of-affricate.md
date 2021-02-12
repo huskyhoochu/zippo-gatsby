@@ -3,7 +3,7 @@ slug: "/kiss-of-affricate"
 date: "2020-08-16"
 tag: "poems"
 title: "파찰음의 키스"
-thumbnail: "https://images.unsplash.com/photo-1569706548645-8034449f6a7b"
+thumbnail: "https://images.unsplash.com/photo-1569706548645-8034449f6a7b?q=80&w=2000"
 ---
 
 당신의 입은

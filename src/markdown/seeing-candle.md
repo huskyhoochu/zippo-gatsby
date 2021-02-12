@@ -3,7 +3,7 @@ slug: "/seeing-candle"
 date: "2020-08-16"
 tag: "journals"
 title: "향초를 보고 있다"
-thumbnail: "https://images.unsplash.com/photo-1476900164809-ff19b8ae5968"
+thumbnail: "https://images.unsplash.com/photo-1476900164809-ff19b8ae5968?q=80&w=2000"
 ---
 
 소이왁스 향초를 보고 있다. 기억 속에서 타오르는 향초를.

@@ -3,7 +3,7 @@ slug: "/radi"
 date: "2020-09-02"
 tag: "books"
 title: "볼프강 보르헤르트, <라디>"
-thumbnail: "https://images.unsplash.com/photo-1521106581851-da5b6457f674"
+thumbnail: "https://images.unsplash.com/photo-1521106581851-da5b6457f674?q=80&w=2000"
 ---
 
 오늘 밤 라디가 내 집에 왔다. 그는 전처럼 금발이었고 부드럽고 넓적한 얼굴에 웃음을 짓고 있었다. 그의 두 눈도 전과 다름없이 약간은 소심하고 약간은 불안한 표정이었다. 내 갈래로 가른 금발의 뾰족한 턱수염도 여전히 기르고 있었다.

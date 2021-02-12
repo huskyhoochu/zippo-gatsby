@@ -3,7 +3,7 @@ slug: "/negative-weight"
 date: "2020-09-03"
 tag: "novels"
 title: "음수의 무게"
-thumbnail: "https://images.unsplash.com/photo-1612993232871-47e86e7de1f9"
+thumbnail: "https://images.unsplash.com/photo-1612993232871-47e86e7de1f9?q=80&w=2000"
 ---
 
 대부님에게서 전화가 왔을 때, 나는 말라버린 꽃을 어떻게 버려야 하나 고민하고 있었다. 대부님과는 몇 년만에 연락이 닿은 셈이었지만 여전히 젊은 남자라고 느껴졌다.

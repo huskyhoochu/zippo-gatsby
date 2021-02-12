@@ -3,7 +3,7 @@ slug: "/my-modern-korean-history"
 date: "2020-08-17"
 tag: "books"
 title: "유시민, <나의 한국 현대사>"
-thumbnail: "https://images.unsplash.com/photo-1505664194779-8beaceb93744"
+thumbnail: "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=2000"
 ---
 
 ## 작가의 '출신 성분'은 의미 있는 정보를 담고 있다

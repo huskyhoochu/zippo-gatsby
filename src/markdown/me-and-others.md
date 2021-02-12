@@ -3,7 +3,7 @@ slug: "/me-and-others"
 date: "2020-08-17"
 tag: "journals"
 title: "이졸데 카림, <나와 타자들>"
-thumbnail: "https://images.unsplash.com/photo-1508557446787-73acf2380f97"
+thumbnail: "https://images.unsplash.com/photo-1508557446787-73acf2380f97?q=80&w=2000"
 ---
 
 ## 100자 평

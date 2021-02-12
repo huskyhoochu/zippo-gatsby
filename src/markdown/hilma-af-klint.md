@@ -3,7 +3,7 @@ slug: "/hilma-af-klint"
 date: "2020-08-19"
 tag: "journals"
 title: "힐마 아프 클린트"
-thumbnail: "https://images.unsplash.com/photo-1555814554-58cd37eb8139"
+thumbnail: "https://images.unsplash.com/photo-1555814554-58cd37eb8139?q=80&w=2000"
 ---
 
 ![klint_01](./images/klint_01.jpg)

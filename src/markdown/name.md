@@ -1,9 +1,9 @@
 ---
 slug: "name"
 date: "2020-12-07"
-tag: "novels"
+tag: "books"
 title: "욘 포세, <이름>"
-thumbnail: "https://images.unsplash.com/photo-1552819289-e14fbbcea868"
+thumbnail: "https://images.unsplash.com/photo-1552819289-e14fbbcea868?q=80&w=2000"
 ---
 
 ## 들어가며

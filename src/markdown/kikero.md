@@ -3,7 +3,7 @@ slug: "/kikero"
 date: "2020-09-15"
 tag: "poems"
 title: "키케로"
-thumbnail: "https://images.unsplash.com/photo-1594404147167-19201c8dbee2"
+thumbnail: "https://images.unsplash.com/photo-1594404147167-19201c8dbee2?q=80&w=2000"
 ---
 
 네가 짧은 치마를 입고 난로를 틀어달라 했을 때

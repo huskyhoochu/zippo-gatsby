@@ -3,7 +3,7 @@ slug: "/go-down-the-wrong-pipe"
 date: "2020-09-13"
 tag: "novels"
 title: "사레"
-thumbnail: "https://images.unsplash.com/photo-1470299568568-d4e15c4b6472"
+thumbnail: "https://images.unsplash.com/photo-1470299568568-d4e15c4b6472?q=80&w=2000"
 ---
 
 약을 삼킬 때 말야, 아무리 물을 마셔도 목구멍에서 넘어가지 않을 때가 있어. 그렇지? 사레가 들릴까 봐 무섭기도 하고. 의대 다니는 친구한테 물어보면, 그건 사람의 목이 잘못 설계되었기 때문이라고 하더라. 숨을 들이마시는 입구와 물을 마시는 입구가 제대로 된 덮개도 없이 한 곳에 모여 있으니까 모든 문제가 생긴 거라고.
