@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Zippo-days',
+    title: 'zippo-days',
+    siteUrl: 'https://zippo-days.me',
   },
   plugins: [
     'gatsby-plugin-postcss',
