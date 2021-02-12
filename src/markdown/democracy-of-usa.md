@@ -3,7 +3,7 @@ slug: "/democracy-of-usa"
 date: "2020-09-01"
 tag: "books"
 title: "양자오, <미국의 민주주의를 읽다>"
-thumbnail: "https://images.unsplash.com/photo-1523241676269-af206ccd4d58"
+thumbnail: "https://images.unsplash.com/photo-1447727214830-cbcbf097b52c"
 ---
 
 ## 100자 평
