@@ -30,7 +30,13 @@
     h2 {
       @apply font-bold;
       @apply text-2xl;
-      @apply my-6;
+      @apply my-8;
+    }
+
+    h3 {
+      @apply font-bold;
+      @apply text-xl;
+      @apply my-4;
     }
 
     p, blockquote, ul, ol {
@@ -50,6 +56,10 @@
 
     blockquote {
       @apply italic;
+    }
+
+    hr {
+      @apply my-4;
     }
   }
 }
