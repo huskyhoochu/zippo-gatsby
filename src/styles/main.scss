@@ -2,7 +2,9 @@
   @apply overflow-x-auto;
 
   &__wrapper {
-    @apply flex flex-wrap items-start;
-    @apply -mx-4 my-8;
+    @apply relative;
+    @apply mb-24 mt-4 mx-16;
+    @apply w-auto;
+    white-space: nowrap;
   }
 }
